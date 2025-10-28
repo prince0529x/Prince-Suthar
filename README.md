@@ -22,8 +22,7 @@ I’m currently sharpening my skills in **Data Analytics, Python, SQL, Power BI,
 
 🎓 **Education:**  
 - BBA in Retail Management – *GLS University (2025)*  
-- 2-year Internship as Relationship Manager – *Maruti Suzuki Arena (Starline)*  
-- Project: *Future EV Breeze Car – Maruti Suzuki*  
+- 2-year Internship as Relationship Manager – *Maruti Suzuki Arena (Starline)*   
 - Learning Data Analysis from **PW Skills**  
 
 💼 **Career Goal:**  
