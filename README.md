@@ -17,7 +17,7 @@ Data Analyst | Power BI | SQL | Python | Excel | Tableau | Statistics | Machine 
 
 ### 👨‍💼 About Me  
 
-Hi there! 👋 I'm **Prince  Suthar**, a passionate **Data Analyst** from **Ahmedabad, Gujarat (India)**.  
+Hi there! 👋 I'm **Prince Suthar**, a passionate **Data Analyst** from **Ahmedabad, Gujarat (India)**.  
 I’m currently sharpening my skills in **Data Analytics, Python, SQL, Power BI, Tableau, Excel, and Machine Learning** — turning raw data into real business insights.  
 
 🎓 **Education:**  
