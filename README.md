@@ -1,4 +1,5 @@
-# Prince-Suthar
+# prince0529x
+
 Data Analyst | Power BI | SQL | Python | Excel | Tableau | Statistics | Machine Learning
 
 <!-- 🌟 Professional GitHub Profile README for Prince Suthar -->
