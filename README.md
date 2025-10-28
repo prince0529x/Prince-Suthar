@@ -6,7 +6,7 @@ Data Analyst | Power BI | SQL | Python | Excel | Tableau | Statistics | Machine 
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00C2CB&height=200&section=header&text=Prince%20Jayantibhai%20Suthar&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00C2CB&height=200&section=header&text=Prince%%20Suthar&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="header"/>
 </p>
 
 <p align="center">
