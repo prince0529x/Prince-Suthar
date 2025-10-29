@@ -3,24 +3,25 @@
 <!-- ⚡ Cyber Futuristic Banner -->
 <p align="center">
   <img alt="Prince Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=🚀%20Prince%20Sutharr%20🚀&fontSize=50&fontAlignY=35&color=0:FF1177,50:00E5FF,100:00FFCC&fontColor=FFFFFF&animation=twinkling&desc=⚡+Data+Analyst+in+the+Making+⚡&descAlignY=60&descSize=22"/>
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=🚀%20Prince%20Sutharr%20🚀&fontSize=50&fontAlignY=35&color=0:A020F0,50:8A2BE2,100:FF66CC&fontColor=FFFFFF&desc=⚡+Data+Analyst+in+the+Making+⚡&descAlignY=60&descSize=22"/>
 </p>
 
 <!-- Typing Animated Sub-Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=1000&lines=📊+Transforming+Data+into+Decisions;🤖+Data+Analyst+Enthusiast;🌍+From+India+to+the+World;🚀+Keep+Learning+,+Keep+Growing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=FF66CC&center=true&vCenter=true&width=1000&lines=📊+Transforming+Data+into+Decisions;🤖+Data+Analyst+Enthusiast;🌍+From+India+to+the+World;🚀+Keep+Learning+,+Keep+Growing!" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=1000&multiline=true&color=00F9FF&center=true&vCenter=true&width=1000&lines=🙏+Namaste+,+Welcome+to+Prince's+World+of+Data;🚀+Automate+.+Analyze+.+Optimize;📊+Transforming+Data+into+Decisions;🤖+Machine+Learning+Mode:+ON;🌏+From+India+to+Infinity;💡+Insights+Drive+Innovation;✨+Keep+Learning+,+Keep+Growing" alt="Professional Sign-Off">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=28&duration=2800&pause=1000&multiline=true&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🙏+Namaste+,+Welcome+to+Prince's+Digital+Universe;📈+Decoding+Patterns+,+Designing+Possibilities;💾+Every+Dataset+Tells+a+New+Story;🧠+AI+and+Analytics:+The+Perfect+Fusion;🌐+Building+Tomorrow+with+Today’s+Data;⚡+Curiosity+is+My+Algorithm;✨+Evolving+Every+Byte,+Every+Day" alt="Prince Sutharr Signature Typing Banner">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00E5FF?style=for-the-badge&logo=robotframework&logoColor=black" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Ahmedabad, Gujarat-FF1177?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=darshilx07-cloud&label=Profile%20Scans&color=00E5FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darshilx07-cloud-reset&label=Profile%20Scans&color=00E5FF&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -39,7 +40,7 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prince-suthar-72b179371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
@@ -51,11 +52,12 @@
   </a>
 </p>
 
+
 ---
 
-### ⚙️ Skils & Tools
+### ⚙️ Skills & Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
@@ -101,28 +103,33 @@
   </tr>
 </table>
 
+<br clear="left"/>
+
+
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince0529x&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF1177" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince0529x&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF1177" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince0529x&theme=tokyonight&hide_border=true&background=0d1117&ring=FF1177&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince0529x&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF1177" alt="GitHub Stats Without Username"/>
 </p>
 
-<!-- Cyber Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince0529x&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+
+<!-- Dot Flow Animation -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Dot Flow Animation" />
 </p>
 
 ---
 
 <!-- ✨ Elegant Cyber Salutations -->
-<div align="center">
+<div align="Center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF1177,00E5FF,00FFCC&center=true&vCenter=true&width=1000&lines=🙏+Namaste!;👋+Hello!;🇫🇷+Bonjour!;🇪🇸+Hola!;🙌+नमस्ते!;🌍+Greetings+from+Darshil's+Data+World!" alt="Salutations">
 </div>
 
