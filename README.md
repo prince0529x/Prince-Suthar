@@ -1,26 +1,26 @@
-<!-- 🤖 Futuristic & Animated GitHub Profile README for Prince Suthar -->
+<!-- 🤖 Futuristic & Animated GitHub Profile README for Darshil Mathur -->
 
 <!-- ⚡ Cyber Futuristic Banner -->
 <p align="center">
   <img alt="Prince Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=🚀%20Prince%20Suthar%20🚀&fontSize=50&fontAlignY=35&color=0:FF1177,50:00E5FF,100:00FFCC&fontColor=FFFFFF&animation=twinkling&desc=⚡+Software+Developer+in+the+Making+⚡&descAlignY=60&descSize=22"/>
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=🚀%20Prince%20Sutharr%20🚀&fontSize=50&fontAlignY=35&color=0:FF1177,50:00E5FF,100:00FFCC&fontColor=FFFFFF&animation=twinkling&desc=⚡+Data+Analyst+in+the+Making+⚡&descAlignY=60&descSize=22"/>
 </p>
 
 <!-- Typing Animated Sub-Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=1000&lines=💻+Building+Logic+,+Creating+Impact;🤖+Java+,+DSA+,+OOP+Enthusiast;🌍+From+India+to+the+World;🚀+Keep+Learning+,+Keep+Growing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=1000&lines=📊+Transforming+Data+into+Decisions;🤖+Data+Analyst+Enthusiast;🌍+From+India+to+the+World;🚀+Keep+Learning+,+Keep+Growing!" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=1000&multiline=true&color=00F9FF&center=true&vCenter=true&width=1000&lines=🙏+Namaste+,+Welcome+to+Prince's+World+of+Code;🚀+Design+.+Develop+.+Deploy;💡+Turning+Ideas+into+Reality;⚙️+Java+Developer+Mode:+ON;🌏+From+India+to+Infinity;✨+Keep+Learning+,+Keep+Building" alt="Professional Sign-Off">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=1000&multiline=true&color=00F9FF&center=true&vCenter=true&width=1000&lines=🙏+Namaste+,+Welcome+to+Prince's+World+of+Data;🚀+Automate+.+Analyze+.+Optimize;📊+Transforming+Data+into+Decisions;🤖+Machine+Learning+Mode:+ON;🌏+From+India+to+Infinity;💡+Insights+Drive+Innovation;✨+Keep+Learning+,+Keep+Growing" alt="Professional Sign-Off">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-00E5FF?style=for-the-badge&logo=java&logoColor=black" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Gujarat, India-FF1177?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=prince0529x&label=Profile%20Scans&color=00E5FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00E5FF?style=for-the-badge&logo=robotframework&logoColor=black" alt="Focus">
+  <img src="https://img.shields.io/badge/Location-Ahmedabad, Gujarat-FF1177?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=darshilx07-cloud&label=Profile%20Scans&color=00E5FF&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -28,21 +28,22 @@
 <h3 align="center">⚡ A Developer Crafting Digital Solutions ⚡</h3>
 
 ### 🧑‍💻 About Me
-- 🔍 Currently exploring **Java, DSA, OOPs, Spring Boot, SQL**
+- 🔍 Currently learning **Python, SQL, ML, Advanced Excel, Power BI**
 - 👨‍💻 Explore projects 👉 <a href="https://github.com/prince0529x?tab=repositories">Repositories</a>
-- 💬 Ask me about **Java, OOP, and Problem Solving**
+- 💬 Ask me about **Machine Learning & Data Analytics**
 - 📫 Contact: **princesuthar0529@gmail.com**
-- 📄 Resume 👉 <a href="https://drive.google.com/" target="_blank">Click Here</a>
-- ⚡ Fun fact: *From debugging code 🧠 to designing solutions 💡 — I love building things that work!*
+- 📄 Resume 👉 <a href="https://drive.google.com/drive/folders/16P8f1MgZ7M3rleEpIN81JplwVN6pUC9P" target="_blank">Click Here</a>
+- ⚡ Fun fact: *⚡ From classroom logic 🏫 to production-level magic ⚙️!*
+
 
 ---
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-suthar" target="_blank">
+  <a href="https://www.linkedin.com/in/prince-suthar-72b179371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/prince.0529x/" target="_blank">
+  <a href="https://www.instagram.com/xprince__29/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF1177?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:princesuthar0529@gmail.com" target="_blank">
@@ -52,44 +53,50 @@
 
 ---
 
-### ⚙️ Skills & Tools
+### ⚙️ Skils & Tools
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/><br>Spring Boot
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>Python
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/><br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
+      <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel"/><br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
+      <img src="https://img.icons8.com/color/48/pandas.png" width="48" height="48" alt="Pandas"/><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/numpy.png" width="48" height="48" alt="NumPy"/><br>NumPy
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br>HTML
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/><br>JavaScript
+      <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="48" height="48" alt="Advanced Excel"/><br>Advanced Excel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/><br>Tableau
     </td>
   </tr>
 </table>
@@ -116,10 +123,12 @@
 
 <!-- ✨ Elegant Cyber Salutations -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF1177,00E5FF,00FFCC&center=true&vCenter=true&width=1000&lines=🙏+Namaste!;👋+Hello!;🇫🇷+Bonjour!;🇪🇸+Hola!;🙌+नमस्ते!;🌍+Greetings+from+Prince's+Code+World!" alt="Salutations">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF1177,00E5FF,00FFCC&center=true&vCenter=true&width=1000&lines=🙏+Namaste!;👋+Hello!;🇫🇷+Bonjour!;🇪🇸+Hola!;🙌+नमस्ते!;🌍+Greetings+from+Darshil's+Data+World!" alt="Salutations">
 </div>
+
+
 
 <!-- ⚡ Futuristic Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=24&duration=2800&pause=1000&color=FF1177&center=true&vCenter=true&width=1000&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Let's+Collaborate+and+Innovate;💡+Build.+Learn.+Deploy.;😊+Keep+Learning,+Keep+Smiling!" alt="Footer Typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=24&duration=2800&pause=1000&color=FF1177&center=true&vCenter=true&width=1000&lines=⭐+Thanks+for+visiting+my+profile!;🚀+Let's+Collaborate+and+Innovate;📊+Turning+Data+into+Decisions;💡+Code.+Analyze.+Optimize.;😊+Keep+Learning,+Keep+Smiling!" alt="Footer Typing">
 </p>
